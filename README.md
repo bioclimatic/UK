@@ -1,7 +1,7 @@
 # UK
 Here is a special summary >[United Kingdom Bioclimatic Design](https://bioclimatic.github.io/UK/RESULTSout_1987-2020_UK.htm)<
 
-The number of UK Met stations analysed 1987-2020 were four-houndred and seven ( n=407 )
+The number of UK Met stations analysed 1987-2020 were four-hundred and seven ( n=407 )
 
 
 | suggested HVAC packge | abrev | number n |
