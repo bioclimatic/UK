@@ -3,13 +3,13 @@ Here is a special summary >[United Kingdom Bioclimatic Design](https://bioclimat
 
 The number of UK Met stations analysed 1987-2020 were four-houndred and seven ( n=407 )
 
-| ----------------------- | ------ | ---- |
-| Air-source is fine ASHP | (Hp__) | n=48 |
-| Icy GSHP or gas or wood | (Gs__) | n=348 |
-| Ventilation cooling with GSHP | (GsVt) | n=1 |
-| Ventilation cooling with ASHP | (HpVt) | n=1 |
-| Insufficient data NO recommendation | (____) | n=9 |
-| ----------------------------------- | ------ | --- |
+| --- | --- | --- |
+| Air-source is fine ASHP | ( Hp __ ) | n=48 |
+| Icy GSHP or gas or wood | ( Gs __ ) | n=348 |
+| Ventilation cooling with GSHP | ( Gs Vt ) | n=1 |
+| Ventilation cooling with ASHP | ( Hp Vt ) | n=1 |
+| Insufficient data NO recommendation | ( __ __ ) | n=9 |
+| --- | --- | --- |
 
 
 
