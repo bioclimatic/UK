@@ -13,11 +13,11 @@ The number of UK Met stations analysed 1987-2020 were four-houndred and seven ( 
 | Insufficient data NO recommendation | ( __ __ ) | n=9 |
 
 ## looking closer at UK locations that need cooling at least 3 days per year on average
-| HVAC	| d/y | latitude longitude| elev. | Place with URL	                                                                              | WMOstn	|1st yr-latest|
+| HVAC	| d/y | latitude longitude | elev. | Place with URL	                                                                              | WMOstn	| period |
 | ----	| ---	| ----------------	| ----	| ----------------------------------------------------------------------------------------------	| ----	| --------- |
 |	GsVt	| 14	|  51.283°,	-0.767°	|  72 m	| [FARNBOROUGH (MIL)](https://bioclimatic.github.io/predilection/psych/037660-99999_fig2.png)    |	37660	| 1994-1995 |
 |	Gs__	| 10	|  51.894°,	-2.167°	|  31 m	| [GLOUCESTERSHIRE](https://bioclimatic.github.io/predilection/psych/036333-99999_fig2.png)      |	36333	| 1992-2020 |
-|	Hp__	|  8	|  47.5°	,   -8.5°	|  0 m	| [BUOY 62163 / BRITTANY](https://bioclimatic.github.io/predilection/psych/995380-99999_fig2.png)| 995380	| 1990-2008 |
+|	Hp__	|  8	|  47.5°	,   -8.5°	|  0 m	| [BUOY 62163 / BRITTANY](https://bioclimatic.github.io/predilection/psych/995380-99999_fig2.png) | 995380	| 1990-2008 |
 |	Gs__	|  8	|  52.072°,	-0.617°	| 109 m	| [CRANFIELD](https://bioclimatic.github.io/predilection/psych/035573-99999_fig2.png)            |	35573	| 1992-2020 |
 |	Gs__	|  7	|  52.205°,	0.175°	|  14 m	| [CAMBRIDGE](https://bioclimatic.github.io/predilection/psych/035715-99999_fig2.png)            |	35715	| 1987-2020 |
 |	Gs__	|  5	|  52.37° ,	-1.48°	|  81 m	| [COVENTRY](https://bioclimatic.github.io/predilection/psych/035413-99999_fig2.png)             |	35413	| 1992-2016 |
