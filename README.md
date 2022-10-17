@@ -15,9 +15,9 @@ The number of UK Met stations analysed 1987-2020 were four-houndred and seven ( 
 ## looking closer at UK locations that need cooling at least 3 days per year on average
 | HVAC	| d/y | latitude longitude| elev. | Place with URL	                                                                              | WMOstn	|1st yr-latest|
 | ----	| ---	| ----------------	| ----	| ----------------------------------------------------------------------------------------------	| ----	| --------- |
-|	__ __	| 19	|  51.605°,	-4.068°	|  91 m	| [SWANSEA](https://bioclimatic.github.io/predilection/psych/036095-99999_fig2.png)              |	36095	| 1990-1991 |
-|	HpVt	| 14	| -59.45°	,-27.317°	| 268 m	| [SOUTH THULE IS.](https://bioclimatic.github.io/predilection/psych/889860-99999_fig2.png)      |	889860 | 2003-2012 |
-|	__ __	| 13	|  52.683°,	1.283°	|  37 m	| [NORWICH WEA CNTRE](https://bioclimatic.github.io/predilection/psych/034925-99999_fig2.png)    |	34925	| 1987-1987 |
+|	__ __	| 19	|  51.605°,	-4.068°	|  91 m	| SWANSEA > without URL                                                                            |	36095	| 1990-1991 |
+|	HpVt	| 14	| -59.45°	,-27.317°	| 268 m	| SOUTH THULE IS. > without URL                                                                    |	889860 | 2003-2012 |
+|	__ __	| 13	|  52.683°,	1.283°	|  37 m	| NORWICH WEA CNTRE > without URL                                                                  |	34925	| 1987-1987 |
 |	GsVt	| 14	|  51.283°,	-0.767°	|  72 m	| [FARNBOROUGH (MIL)](https://bioclimatic.github.io/predilection/psych/037660-99999_fig2.png)    |	37660	| 1994-995 |
 |	Gs__	| 10	|  51.894°,	-2.167°	|  31 m	| [GLOUCESTERSHIRE](https://bioclimatic.github.io/predilection/psych/036333-99999_fig2.png)      |	36333	| 1992-2020 |
 |	Hp__	|  8	|  47.5°	,   -8.5°	|  0 m	| [BUOY 62163 / BRITTANY](https://bioclimatic.github.io/predilection/psych/995380-99999_fig2.png) |	995380	| 1990-2008 |
