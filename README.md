@@ -13,6 +13,7 @@ The number of UK Met stations analysed 1987-2020 were four-houndred and seven ( 
 | Insufficient data NO recommendation | ( __ __ ) | n=9 |
 
 ## looking closer at UK locations that need cooling at least 3 days per year on average
+
 | HVAC	| d/y | latitude longitude | elev. | Place with URL	                                                                              | WMOstn	| period |
 | ----	| ---	| ----------------	| ----	| ----------------------------------------------------------------------------------------------	| ----	| --------- |
 |	GsVt	| 14	|  51.283°,	-0.767°	|  72 m	| [FARNBOROUGH (MIL)](https://bioclimatic.github.io/predilection/psych/037660-99999_fig2.png)    |	37660	| 1994-1995 |
